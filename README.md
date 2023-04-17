@@ -13,6 +13,7 @@ APIs utlized:
     *Free version of API keys have limited call requests and may NOT produce results after multiple file runs
 
 Steps to run code:
+    
     1. Input API keys at start of ccl_streamlit_app.py code for both Marketstack and News API
     2. copy and paste terminal command into terminal
     3. press ENTER to begin application (follow other instructions in terminal if prompted)
