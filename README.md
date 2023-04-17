@@ -6,6 +6,7 @@ SI 699 Big Data Mastery Course 2023
 Objective: Provide as close to realtime insights on automotive companies when updates occur
 
 APIs utlized:
+
     - marketstack API   https://marketstack.com/
     - News API  https://newsapi.org
 
