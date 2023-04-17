@@ -1,0 +1,8 @@
+pandas
+numpy
+re
+requests
+bs4
+summarizer
+streamlit
+datetime
